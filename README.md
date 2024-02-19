@@ -1,5 +1,4 @@
-### Título del Proyecto
-Web Application Firewall (WAF) for Basic Security
+### Web Application Firewall (WAF) for Basic Security
 
 ### Descripción
 This Python-based web application firewall (WAF) provides basic security features to protect web applications from common attacks, such as cross-site scripting (XSS) and SQL injection. It uses regular expressions to detect malicious patterns in incoming requests and blocks them accordingly.
